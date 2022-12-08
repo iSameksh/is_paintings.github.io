@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the iPot 1.0
+---------------------------------------------------
+
+app_name - 						iPot
+app_alias - 					ipot
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Maharashtra
+app_author_country - 			India
+app_password - 					AUR83j49jbj4
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Monday 3rd of October 2022 09:28:29 AM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
